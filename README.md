@@ -1,5 +1,9 @@
 # 🚴 Visualizando el Rendimiento de AWC en Power BI
 
+<p align="center">
+  <img src="https://i.imgur.com/tSxyEFc.png" width="600" height="400" alt="Logo-Proyecto"/>
+</p>
+
 ## 📌 Introducción
 
 Este proyecto, llamado **“Visualizando el Rendimiento de AWC en Power BI”**, tiene como objetivo realizar un análisis sistematizado de las ventas de **Adventure Works Cycles (AWC)**, una empresa multinacional de fabricación que produce y distribuye bicicletas, piezas y accesorios en Norteamérica, Europa y Asia. Actualmente, la empresa carece de indicadores adecuados para la toma de decisiones eficiente.
